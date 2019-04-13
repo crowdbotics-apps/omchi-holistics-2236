@@ -1,0 +1,3 @@
+rootProject.name = 'omchi_holistics_2236'
+
+include ':app'
